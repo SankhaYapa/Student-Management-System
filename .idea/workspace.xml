@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea1a83ff-1daa-4f37-b8cd-bd329d33f61c" name="Changes" comment="" />
+    <list default="true" id="6d9275a0-3eea-418d-a135-b9a6961503e8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SMS" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="2KJhV1pouXQbQUcqy06xAjSkkkV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2BfG6igemoJ13Ut06bHJsn8ME4v" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,21 +36,71 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SMS" />
+    <property name="last_opened_file_path" value="D:/softwares installed/scenbuilde/SceneBuilder.exe" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppInitializer" />
+      <module name="SMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AppInitializer" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ea1a83ff-1daa-4f37-b8cd-bd329d33f61c" name="Changes" comment="" />
-      <created>1673698612978</created>
+      <changelist id="6d9275a0-3eea-418d-a135-b9a6961503e8" name="Changes" comment="" />
+      <created>1657289555856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673698612978</updated>
-      <workItem from="1673698615073" duration="17000" />
+      <updated>1657289555856</updated>
+      <workItem from="1657289558353" duration="5571000" />
+      <workItem from="1657299670947" duration="7656000" />
+      <workItem from="1657336447019" duration="1666000" />
+      <workItem from="1657339916365" duration="10773000" />
+      <workItem from="1657372799425" duration="21509000" />
+      <workItem from="1657426779644" duration="15395000" />
+      <workItem from="1657450618582" duration="4973000" />
+      <workItem from="1657456863472" duration="3757000" />
+      <workItem from="1657462624038" duration="193000" />
+      <workItem from="1657468976360" duration="2249000" />
+      <workItem from="1657477580796" duration="97000" />
+      <workItem from="1660387760396" duration="165000" />
+      <workItem from="1662779538224" duration="505000" />
+      <workItem from="1662800591370" duration="2535000" />
+      <workItem from="1664013953253" duration="157000" />
+      <workItem from="1668006096355" duration="71000" />
+      <workItem from="1673698633017" duration="1617000" />
+      <workItem from="1675080816868" duration="7959000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
